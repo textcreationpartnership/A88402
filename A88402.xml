@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentable estate and distressed case of the deceased Sr William Dick in Scotland and his numerous family and creditors for the Commonwealth.</title>
+         </titleStmt>
+         <extent>Approx. 39KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88402</idno><idno type="EEBO-CITATION">99870599</idno>
+  <idno type="VID">122992</idno>
+  <idno type="EEBO-PROQUEST">2240946989</idno>
+  
+            <idno type="STC">Wing L271</idno>
+            <idno type="STC">Thomason 669.f.20[53]</idno>
+            <idno type="STC">ESTC R211931</idno>
+            <idno type="PROQUEST">99870599</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870599e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88402)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 122992)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[53])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentable estate and distressed case of the deceased Sr William Dick in Scotland and his numerous family and creditors for the Commonwealth.</title>
+               </titleStmt>
+               <extent>13, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 1657"; "[illegible] 1657".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Dick, William, 1579 or 80-1655 --  Early works to 1800.</term>
+               <term type="topical_term">Debt --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Estates (Law) --  Scotland --  Cases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:122992:1"/>
+            <head>THE Lamentable ESTATE and distressed CASE Of the Deceased S<seg rend="sup">r</seg> William Dick IN SCOTLAND, And his Numerous FAMILY and CREDITORS FOR THE COMMONWEALTH.</head>
+            <div type="preface">
+               <head>PREFACE to the READER.</head>
+               <opener>
+                  <salute>Honorable and Courteous Reader,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat your eyes may affect your heart, you have here presented to your view (the Mirror of his Age, amongst men of his quality) the deceased Sir <hi>Willi<g ref="char:EOLhyphen"/>am Dick,</hi> Lord Major of <hi>Edenborough</hi> in <hi>Scotland;</hi> Renowned both at home and abroad, as a Famous Merchant: When all men have sought their own things, he (contrary to the principals of his outward Calling) in the time of Publick Calamity (when as the interest of all things judged and deemed then pretious, were threatned and in hazard) did chearfully (to serve his Generati<g ref="char:EOLhyphen"/>on) embarque himself, his Estate (which then was very considerable) and his Credit which was greater, known by his Fame abroad, that his Bills were never protested, but accepted through all Christendom, yea, even in the Dominions of the Turks: And this not out of any private end, but for the publick-good Cause, which had so many Prayers laid out for it then, which he believed would be answered in due time. He therefore as an unparalleled Publick Spirit by any of his Quality, cast all into the Work, neither keeping back any thing as an Hypocrite, nor providing for Safety, as many detestable and unstable Neuters have done: For the which, he was highly honored, and had many Ellogies and Declarations, <hi>&amp;c.</hi> of the seasonable and suitable Supplies he then made; besides for assurance of thankful repay<g ref="char:EOLhyphen"/>ment, he had the greatest Security amongst men tendred and given him. <hi>Viz.</hi>
+               </p>
+               <p>The Publick Faith of the Nations, which through disappointments by the exigencies of great affairs, hath made the Malignant esteem it a Publick Fraud; and to none it hath proved more destructive then to him, as you may perceive by this lamentable and sad-subse<g ref="char:EOLhyphen"/>quent Petition, which is now set before your Eye and Ear, from Writ to Print, for the more Universal Information of the Case to all well-affected, against the whispering Mis-infor<g ref="char:EOLhyphen"/>mations of Zoylous and self-interested persons:</p>
+               <p>And for the more clear Demonstration to all charitable and compassionate Christian-Hearts, of the unexpressable Distress of that poor numerous Family and Creditors of the said Sir <hi>William Dick,</hi> against the cruelty of Malignant and Disaffected men, who would mis-term his Actions, detract from his Deservings, and vail their Sorrows from the Eye of tender Consideration, yea, draw aside their calamitous Condition, from the hand of the
+<pb n="2" facs="tcp:122992:2"/> Deliverer; seeking to involve these poor Petitioners into that same snare of Destruction and Confusion, which their own distempers have procured to themselves.</p>
+               <p>And lastly, That the Disease and Heart-bleeding Estate of that poor Family, being thus publickly presented to the view of all men; it may stand as a perpetual Monument, to the never-dying honor of those State-Physitians, who shall cure this Malady after Sixteen years continuance, which is confidently hoped for from this present most Honorable High Court of Parliament, who have already cherished and comforted the Cure, by ordering a satisfactory way to be brought in, whereby they may Enact a suitable and seasonable return to the Petition; which as a fruit of the seasonable Justice and Righteousness of the present Government, may shame and reprove former times, and encourage the future Generation to tread the same paths of Justice and Thankfulness, to Vertue and Weldoing for Truth and the Publick Interest of their Country, in the day of their Exigency.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>To the High and Honorable COURT OF PARLIAMENT.</hi> The Lamentable and Sad <hi>Petition</hi> of the distressed Family and nu<g ref="char:EOLhyphen"/>merous Creditors of the late Deceased Sir <hi>William Dick</hi> in <hi>Scotland,</hi> Knight.</head>
+               <opener>Humbly Sheweth,</opener>
+               <p>THat the Deceased Sir <hi>William Dick,</hi> with his Children and Friends at home, and beyond Seas, out of Christian zeal to the purity of true Religion, from the vain Inventions of man, and in order to the preservation (if not restauration) of the lawful Liberties of the <hi>Israel</hi> of God, from the abuse and oppres<g ref="char:EOLhyphen"/>sion of corrupt Council, profanity, and wickedness about Autho<g ref="char:EOLhyphen"/>rity: Did exemplarily in the beginning of these late Troubles and Distractions in the Commonwealth, expend his whole For<g ref="char:EOLhyphen"/>tune and Estate; and all the Trust which he could command from others, most chearfully, and with great Affection, (without a parallel by any of his quality in the Three Nations.) And most constantly (without the least change of his Principles in pursuance of the ends aforesaid) counting nothing too dear, nor any thing too much, in the day of <hi>Englands</hi> Calamity, <hi>Scotlands</hi> Troubles, and <hi>Irelands</hi> Blood; as may appear by a Letter from the Parliament of <hi>Scotland,</hi> to the Parliament of <hi>England,</hi> 21 <hi>Nov.</hi> 1648. (the time of the greatest defection of many) a Copy whereof for Evi<g ref="char:EOLhyphen"/>dence doth hereafter follow.</p>
+               <pb facs="tcp:122992:3"/>
+               <figure>
+                  <p>PUBLICA SALUS NUNC MEAE MERCES.</p>
+                  <p>PRO FOEDERE, REGE, ET GREGE. <hi>1640.</hi>
+                  </p>
+               </figure>
+               <q>
+                  <lg>
+                     <l>See here a Merchant, who for's Countries good,</l>
+                     <l>Leaves off his Trade, to spend both Wealth and Blood;</l>
+                     <l>Tramples on Profit, to redeem the Fate,</l>
+                     <l>Of his decaying <hi>Church,</hi> and <hi>Prince,</hi> and <hi>State.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Such Traffick, sure none can too highly prize,</l>
+                     <l>When Gain it self is made a Sacrifice.</l>
+                     <l>But Oh! how ill will such examples move,</l>
+                     <l>If Loss be made the recompence to Love.</l>
+                  </lg>
+               </q>
+               <pb n="4" facs="tcp:122992:4"/>
+               <p>That for these Incomparable and most Seasonable Disbursments for the Nations, (being above Fifty thousand pounds of Remainder at this present) he had and hath made to him by those who then were in power, all the acknow<g ref="char:EOLhyphen"/>ledgments of good Service, and solemn Promises before Heaven and Earth, that the sons of men can make one to another, for thankful and speedy Repairment, with Recompence and Reward, as is evident by Letters from the Parliament of <hi>Scotland,</hi> to the aforesaid Sir <hi>William Dick,</hi> dated 12 <hi>December</hi> 1645. And by several other Letters hereafter also following, direct from that Parliament and Committee of Estates there, to the Parliament of <hi>England,</hi> and to the Com<g ref="char:EOLhyphen"/>missioners of <hi>Scotland</hi> for the time at <hi>London, Anno</hi> 1644 and 1646. And by a Recommendation from the General Assembly of the Church of <hi>Scotland,</hi> to the Parliament and their Committees in <hi>June,</hi> 1646, <hi>&amp;c.</hi> And farther, he hath made and granted unto him all Securities of Parliaments, Committees of Par<g ref="char:EOLhyphen"/>liaments, and Councils of State, that Justice or Law can devise for Assurance of Satisfaction; and more particularly upon the Chamber of <hi>London, Anno</hi> 1641. Upon the Customs of <hi>England,</hi> in the years 1643 and 1644. Upon the Receipts of Papists and Delinquents Estates, Sale or Composition thereof, 13 <hi>Jan.</hi> 1646. By the Treasurers at <hi>Goldsmiths</hi>-Hall, and still charged thereup<g ref="char:EOLhyphen"/>on for the same; with many scores of Orders and Ordinances of all the Three late Parliaments, and their Committees; and of his Highness Privy Council, in <hi>August</hi> and <hi>September</hi> 1654. and <hi>June</hi> 1655. All confirming and approving for the most part, the said Sir <hi>William Dick</hi> his Original Securities, and ordering his forthwith Payment and Satisfaction. And lastly, he was secured by the <hi>Scots</hi> Parliament, in the Lease of the Excizes of Wines in that Nation, to begin <hi>Anno</hi> 1651. though since he was interrupted therein by the Army; so that Humane Faith, and Christian Bonds, cannot establish to any man a stronger Right or Security, and Assurance thereof.</p>
+               <p>That notwithstanding all this, and of the aforesaid Sir <hi>William Dick</hi> his ex<g ref="char:EOLhyphen"/>pence and painful Solicitation by Agents and Friends, the space of Sixteen years, and of his own Personal Attendance upon the Three Parliaments, and his High<g ref="char:EOLhyphen"/>ness Council, from <hi>Nov.</hi> 1652. until <hi>Nov.</hi> 1655. in his great Old Age of Se<g ref="char:EOLhyphen"/>venty and five years, and grey Hairs full of Sorrows and heaviness of Heart, for such deplorable Sufferings in Credit and Estate, by so good Service perform<g ref="char:EOLhyphen"/>ed for <hi>England,</hi> and with his cries to Heaven for Justice and Mercy, to his so deep Afflictions for weldoing; yet nevertheless, little or nothing was recovered all his time here, but one small sum of One thousand pounds in <hi>August,</hi> 1653. Insomuch, that by reason of this Delay, Floods of Desolation and Distress have overwhelmed him and his Children with their numerous Families and little ones; Their Lands and Houses being extended and possessed by the Creditors, in the cruel execution of the Law; their Chattels and Goods, yea, their Gar<g ref="char:EOLhyphen"/>ments, the covering of their Nakedness, and the Coverlet, in which they should sleep, being publickly distrained and seized upon for these Debts and Disburs<g ref="char:EOLhyphen"/>ments engaged in by them to promote the Publick Service: Neither is this all, One wo is past, and behold two woes come after this; Ah! the Old man him<g ref="char:EOLhyphen"/>self was once and again disgracefully cast into prison for small Debts contracted for necessary livelihood, during his attendance for Satisfaction.</p>
+               <pb facs="tcp:122992:5"/>
+               <figure>
+                  <p>
+                     <hi>Guli: Vaughan sculp:</hi>
+                  </p>
+                  <p>PUBLICA FIDES, NUNC MEA SERVITUS.</p>
+               </figure>
+               <q>
+                  <lg>
+                     <l>He whom you see thus by vile Sergeants torn,</l>
+                     <l>Was once his Countries pattern, now their score;</l>
+                     <l>Whilst into Prison dragg'd, he there complains;</l>
+                     <l>Who least deserves, doth soonest suffer Chains.</l>
+                  </lg>
+                  <lg>
+                     <l>And who for Publick doth his Faith engage,</l>
+                     <l>Changes his Pallace for an Iron Cage.</l>
+                     <l>Then adde: To shew his unbecoming Fate,</l>
+                     <l>He had been free, had he not serv'd the State.</l>
+                  </lg>
+                  <bibl>
+                     <hi>Wil. Devat</hi>
+                  </bibl>
+               </q>
+               <pb n="4" facs="tcp:122992:6"/>
+               <p>And in the end through heart-break, by so long disappointment, and in the sight of so great miseries upon himself, family, and so fair an Estate, and preci<g ref="char:EOLhyphen"/>ous Credit and Trust he formerly had, died in <hi>Westminster</hi> the Nineteenth of <hi>De<g ref="char:EOLhyphen"/>cember,</hi> 1655. in great Misery and Want, and without the benefit of a decent Funeral, after six Moneths Petitioning for some little Money towards the same. And to compleat the third wo and perfection of sorrowful Afflictions, his Chil<g ref="char:EOLhyphen"/>dren at this day are cast, and lying in prisons these Twenty Moneths past for Publick Debts, in great sufferings of their Persons, Credit, and Calling, and weariness of Life, longing for Death more then for Treasures: And where they and their numerous Families, with their desolate Wives and little Ones, had al<g ref="char:EOLhyphen"/>ready perished for want of Bread, if some little supply by his Highness good<g ref="char:EOLhyphen"/>ness had not been lately appointed them: By which means the Old Mans Me<g ref="char:EOLhyphen"/>mory and Posterity, is almost rooted out from under Heaven, with great dis<g ref="char:EOLhyphen"/>grace and shame, and this for Righteousness sake; to the no small scandal of Reformed Religion, the dishonor of the Commonwealth, the violation of the present Government; the discouragement of the godly in fight of such neglect towards the welaffected in the Land; and to the great triumph and proud in<g ref="char:EOLhyphen"/>sulting of the wicked and malignant Enemy, who do rage and swell in their <hi>Shimei</hi>-like revilings, and tauntingly in their seeming compassion to your Peti<g ref="char:EOLhyphen"/>tioners Miseries, (yet insolently in their real malice) accuse the Commonwealth of forgetfulness of their first and faithful Old Servants, who have forsaken all, and followed them through the fire and water of all Streights and Difficulties: And even in the esteem and judgment of these Enemies, should in this peace<g ref="char:EOLhyphen"/>able Harvest time by the Commonwealth, of their Friends and Servants former painful and expensive Labors, have satisfaction of their just Debts and Suffer<g ref="char:EOLhyphen"/>ings in time past, and some subsistance; especially considering, the large and solemn Promises made in the Declarations of both Kingdoms, <hi>Anno</hi> 1643. That such as should approve themselves faithful to the Parliament, and should con<g ref="char:EOLhyphen"/>tinue constant in their course of doing or suffering unto the end, should accord<g ref="char:EOLhyphen"/>ing to their Merits, be taken into Publick notice and consideration, their Debts and Losses repaid, and themselves honored and rewarded. And that no man who hath been eminent in action, or had suffered any notable loss for the Publick, should be neglected or slighted, but one way or other should be thankfully remembred to his own honor, and the good of his Posterity. And also remembring that, besides all this, it is provided and promised by the Nine and thirtieth <hi>Article</hi> of the present Government, That Publick Debts shall be confirmed and assuredly paid.</p>
+               <pb facs="tcp:122992:7"/>
+               <figure>
+                  <p>Guli: Ʋa<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghan s<gap reason="illegible" resp="#uom" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulp▪</p>
+                  <p>ET SINE BUSTO IACEO SEPULTUS.</p>
+               </figure>
+               <q>
+                  <lg>
+                     <l>See him expos'd to th' curtesie of the Skie,</l>
+                     <l>Who for his Countrey durst do more then die.</l>
+                     <l>His helpless Issue now survive to tell,</l>
+                     <l>Their Father di'd without a parallel.</l>
+                     <l>Since Miserable, Naked, and Forlorn,</l>
+                     <l>Went to the Grave at he was born.</l>
+                  </lg>
+                  <lg>
+                     <l>Of this brave man, it onely may be said,</l>
+                     <l>Not here he buried lies, but here he's laid:</l>
+                     <l>Such strange il-boding <hi>Epitaphs</hi> to scan,</l>
+                     <l>Will wound a <hi>State</hi> more, then an Army can;</l>
+                     <l>For who'll trust private men, if States endure</l>
+                     <l>To see him wretched, who made them secure.</l>
+                  </lg>
+                  <bibl>
+                     <hi>Wil. Devaux.</hi>
+                  </bibl>
+               </q>
+               <pb n="8" facs="tcp:122992:8"/>
+               <p>The lamentable Premisses considered, and that your Honors are now again met by singular Divine Providence, as the Light and Eyes of the Lords People, as the hiding place from the Wind, the refuge from the Tempest, the Rivers of Water in a Wilderness, the shadow of a great Rock in a wearied Land. And as the Soveraign Physitians of the languishing Diseases of the Body Politick, and healers of the Breaches of the Nations, by whom the Messengers may see and say, That the Lord hath established <hi>Zion,</hi> and that the poor of his people shall trust in it, and by whose wholsome Councils and Conclusions, Righteousness and Peace may kiss each other, Beauty and Bonds may be joyned, and the hearts of the afflicted may rejoyce.</p>
+               <p>
+                  <hi>Your Honors distressed Petitioners and Prisoners,</hi> Do therefore, if not for Ju<g ref="char:EOLhyphen"/>stice and Righteousness sake, your general and particular Promises sake, yet humbly pray for Christ's sake, now at last, after Sixteen years delay and disap<g ref="char:EOLhyphen"/>pointment of such honorable and solemn Parliamentary Promises and Protesta<g ref="char:EOLhyphen"/>tions, Church and State Recommendations, and of so many Acts, Orders, and Ordinances, as nothing more clear and just; and after so great and deplorable Sufferings sustained by them in Person, Credit, Estate, and Relations, and in the Death of their old heart-broken Father, in so great and disgraceful Misery and Want, (which hath given too much cause to the Enemy to Blaspheme, and caused the Daughters of the <hi>Philistines</hi> to rejoyce) and as the cry of their scattered poor Families of Fifty Children and Grand-Children, and numerous Creditors, (for the most part all Orphans, Widows, and poor People, and wel-affected to the Commonwealth,) may be dear before you, and tender to your Ears, That a present, speedy, real, effectual course may be taken for their full Satisfaction of their great Disbursements for the Publick, with such Recompence and Reward as shall stand with yours Honors Pleasure and Justice. And to that purpose, That some few select persons of this most honorable Court, best known to your Petitioners Fathers good Services and Sufferings, may be presently nominated as a Committee for considering thereupon, and upon the Liberty of their per<g ref="char:EOLhyphen"/>sons from these their wearisome Bonds and Stocks of cruel and unadvised Cre<g ref="char:EOLhyphen"/>ditors for the time to come, until their compleat payment of these Publick debts due by the Commonwealth: And thereafter, to certifie their opinion therein, for your honors Ordinance of Parliament, to pass and to be issued forth thereupon. By which doing, Religion and Righteousness will be well spoken of by the Nations, the honor of the Commonwealth and present Government will receive further glory and praise; the godly and well affected party in the Land will rejoyce, the common enemy will be cloathed with shame and iniquity shall stop her mouth. And your honors Petitioners and Prisoners will be re<g ref="char:EOLhyphen"/>stored again from the grave of such inexpressable sorrows and sufferings, and have matter and occasion all their days, to bless the God of their Fathers, which shall put in the hearts of this most honorable Court, to execute such Judgment and Justice towards them, and incline mercy towards them before his Highness and his Councellors, and before all his Highness Rulers and Officers. And in this confidence</p>
+               <closer>
+                  <signed>Your distressed Petitioners and Prisoners shall ever humbly pray, &amp;c.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="9" facs="tcp:122992:9"/>
+               <head>
+                  <hi>Copia</hi> of <hi>Scotlands</hi> Letter to the House of Commons, 1 <hi>May.</hi> 1644.</head>
+               <opener>
+                  <salute>Sir <hi>William Dick.</hi>
+                  </salute>
+                  <salute>Right honorable,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">A</seg>Bout a year since or thereby, we recommended to you to pay Sir <hi>William Dick</hi> of <hi>Braid</hi> the last Forty thousand pounds sterling of the Brotherly assistance, due at <hi>Midsumer,</hi> 1642. assigned by us to the said Sir <hi>William</hi> for satisfaction of several great sums advanced by him in the Publick Cause, whereof (as we are informed) he has onely received Five thousand six hundred pounds, and there rests Thirty four thousand four hundred pounds, and has forborn to urge the payment thereof hithertils in regard of your more pressing affairs: But now as the great prejudice the said Sir <hi>William</hi> suffers in his affairs by want of this sum, has moved him in his great necessity, to implore our intercession with you for his satisfaction; so we calling to minde the seasonable advancement of great sums made by the said Sir <hi>William</hi> to us in time of our troubles, his readiness according to his power in every thing to further the Publick Cause, and the great straits we are put to by want of these ordinary supplies we did truly receive from him (and which for want of the moneys afore<g ref="char:EOLhyphen"/>said, he is now disabled to make,) Do therefore most earnestly recommend the said Sir <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and the Bearer hereof <hi>Robert Inglis</hi> Merchant, his Commissioner, requesting that the said sum of Thirty four thousand four hundred pounds sterling, with interest since <hi>Mid<g ref="char:EOLhyphen"/>sumer,</hi> 1642. may be paid (hilsoon possibly can be) to the said Sir <hi>William,</hi> or Mr. <hi>Inglis,</hi> in his name, which will be most acceptable to the States here, and very much oblige</p>
+               <closer>
+                  <dateline>
+                     <hi>Edenburgh,</hi>
+                     <date>1 <hi>May:</hi> 1644</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your assured Friends</hi> London Cancellarius. <hi>J.P.D.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Copia</hi> of <hi>Scotlands</hi> Letter to their Commissioners at <hi>London.</hi> 1 <hi>May.</hi> 1644.</head>
+               <opener>
+                  <salute>Sir <hi>William Dick.</hi>
+                  </salute>
+                  <salute>Right honorable,</salute>
+               </opener>
+               <p>YOur Lordships know, how readily and seasonably Sir <hi>Will. Dick</hi> of <hi>Braid</hi> in our great troubles advanced several sums to the Publick, for which we assigned him the last For<g ref="char:EOLhyphen"/>ty thousand pounds sterling of the Brotherly assistance payable at <hi>Midsumer,</hi> 1642. where<g ref="char:EOLhyphen"/>of he has onely received Five thousand six hundred pounds, and so wants Thirty four thou<g ref="char:EOLhyphen"/>sand four hundred pounds, and is thereby disabled now in the time of our great straits to give us these necessary supplies which formerly we had from him: As he has found hereby great prejudice in his affairs, which constrains him now to urge payment; so the remem<g ref="char:EOLhyphen"/>brance of his former good offices, his present readiness in every thing for the Publick, and the great engagements of the States for payment of his advancement, has moved us to write to the House of Commons in favors of the said Sir <hi>William,</hi> and of the Bearer <hi>Robert Inglis</hi> Merchant, his Commissioner, whom we do also recommend to your Lordships, and earnest<g ref="char:EOLhyphen"/>ly desire that by your best endeavors with both Houses of Parliament, you would procure payment of the said Thirty four thousand four hundred pounds with interest since <hi>Mid<g ref="char:EOLhyphen"/>sumer,</hi> 1642. to the said <hi>Robert Inglis</hi> in name of the said Sir <hi>William,</hi> hilsoon possibly you can, as a service most acceptable both to him and us.</p>
+               <closer>
+                  <dateline>
+                     <date>1 <hi>May.</hi> 1644.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your Lordships assured Friends,</hi> London Cancellarius, <hi>J.P. D.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="10" facs="tcp:122992:10"/>
+               <head>
+                  <hi>Copia</hi> of <hi>Scotlands</hi> Letter to Sir <hi>Wil. Dick,</hi> 12 <hi>Dec.</hi> 1645.</head>
+               <opener>
+                  <salute>Assured Friend,</salute>
+               </opener>
+               <p>WE do acknowledge your Advancements and Service to your Country and us in our streights and difficulties, to have been timeous comfortable and useful for our assist<g ref="char:EOLhyphen"/>ance, and the opposition of the enemies of the Covenant and good Cause: And we do the more highly value and prize the same for that cheerfulness and alacrity, which singularly you did always manifest therein, which did make you to engage not onely your own Means and Estate, but to use your best credit with others for our supply beyond all men of your condi<g ref="char:EOLhyphen"/>tion, whereby the Kingdom hath found your ready help in its greatest necessities: For the which we finde our selves bound in Honor and Conscience, to see you timeously relieved and satisfied; And albeit your frequent Supplications formerly presented to us and our Or<g ref="char:EOLhyphen"/>ders issued thereupon, have not produced the intended effect of your satisfaction; yet we have so much taken to heart your deep Engagements, That we are resolved to take such a solid and real course for your payment, and put such a mark of your merited Reward upon you to be recorded to posterity, as may give you just content, and convince those of foolish rashness, who have so mis-termed your Advancements, being resolved as we do hereby as<g ref="char:EOLhyphen"/>sure, That before dissolving of this Session of Parliament, we shall use all possible means for obtaining money, and giving you real satisfaction; which we think is the best way to stop the mouths of your unfriends, and to give your self encouragement: All which are justly deserved by you, and really intended to you by</p>
+               <closer>
+                  <signed>
+                     <hi>Your affectionate Friends</hi> Crauford-Lindsey, <hi>J.P.D.</hi> PARL.</signed>
+                  <dateline>St. <hi>Andrews,</hi>
+                     <date>12 <hi>Dec.</hi> 1645.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>To our assured Friend Sir <hi>William Dick</hi> of <hi>Braid,</hi> Knight.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>Recommendation by the Assembly of the Church of <hi>Scotland,</hi> to the Parliament and Committee of State in that Nation, concerning Sir <hi>William Dick,</hi> Date the <hi>15 June, 1646.</hi>
+               </head>
+               <p>THe General Assembly having received and heard a Petition from Sir <hi>William Dick,</hi> re<g ref="char:EOLhyphen"/>presenting his great sufferings in his Estate and Credit, by lending so great sums of money for advancing the Publick-good Cause, in its greatest streights and difficulties, and humbly desiring, that the Assembly would interpone their earnest desires to the State in his behalf, for his payment, and relief of his Credit; and having found themselves obliged in conscience to resent his Engagements, in and for that Cause; therefore the General Assem<g ref="char:EOLhyphen"/>bly, from the sence they have of the sufferings of the good cause in his sufferings, do humbly represent their most earnest desires to the honorable Committees of Parliament, whom it doth concern, That their Lordships may be pleased to take some speedy course for his real satisfaction and payment of so huge sums, that his name, credit, and estate, may be yet saved, the honor of the Kingdom engaged by their Publick Faith and Surety, may be preserved, and appoints Masters, <hi>Andrew Cant, David Dickson, Robert Murray, Clarkington</hi> and <hi>Libberton,</hi> to present this humble desire in the behalf of the said Sir <hi>William,</hi> and further to assist the said Sir <hi>William</hi> before their Lordships, during the time of the sitting of the said Assembly; And that thereafter, any two of the Ministers of <hi>Edenburgh,</hi> whom he shall desire, with any one or two of the Commissioners of the Assembly in Town, present the same Desire to the honorable States of Parliament being sitting, or their Committees, as he shall finde neces<g ref="char:EOLhyphen"/>sary.</p>
+               <closer>
+                  <signed>
+                     <hi>Andrew Ker,</hi> Clerk to the Assembly.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Copia</hi> of a Letter from <hi>Scotland</hi> to their Commissioners at <hi>London.</hi> Date 28 <hi>August.</hi> 1646.</head>
+               <opener>
+                  <salute>Sir <hi>William Dick.</hi>
+                  </salute>
+                  <salute>Right honorable,</salute>
+               </opener>
+               <p>WE doubt not but you know how far this Kingdom is engaged to Sir <hi>William Dick,</hi> for his advancements in the furtherance of the good Cause, in its great distress and ex<g ref="char:EOLhyphen"/>tremity
+<pb n="11" facs="tcp:122992:11"/> of danger, whereof we all in honor and conscience, ought to be very sensible, and do our best endeavors for his thankful repayment, especially seeing what service he did, was to the uttermost of his power, and of his own and childrens Fortune and Credit with his Friends, in all chearfulness and honesty of heart, tendering nothing so much as the firm peace and lawful liberties of the two Nations. In <hi>December</hi> 1641. he was assigned to the friendly assistance by <hi>England,</hi> due the 24 of <hi>June,</hi> 1642. upon a further advancement by him to us of 10000 <hi>l.</hi> sterling, for suppressing the Rebellion of <hi>Ireland,</hi> whereof the Re<g ref="char:EOLhyphen"/>mainder being 34400 <hi>l.</hi> with the interest, was seriously recommended by several Letters from the Parliament, and from us formerly, to your Lordships pains with both Houses of Parliament in his behalf; albeit, hitherto to no effect, through by-gone distractions, disap<g ref="char:EOLhyphen"/>pointing him of our and your good intentions towards his Credit, now unto our great grief in much suffering, both at home and abroad. Now we conceive this time to be very season<g ref="char:EOLhyphen"/>able for your intercession with the Parliament for the said Sir <hi>William,</hi> and we hope that your willingness and diligence may procure him payment of his right from us to that sum, with the by-gone Interest, which will much contribute to his relief, and will satisfie yours and our desires, as being of a like favorable minde with us to his so great sufferings for the Pub<g ref="char:EOLhyphen"/>lick: Therefore we do hereby request your Lordships to interpose your earnest Intercession with the Parliament for his payment of that sum, yea, we recommend that business to your charge, as an Article of your Instructions, and much concerning the relief of the Countrey in their great Engagements to him, which of necessity must be paid here, if the brotherly money be not satisfied there, conform to his right. In confidence of your Lordships love and care for the said Sir <hi>William</hi> his so great suffering Credit by our disappointments, and of your pains and dealing with the Parliament for him, We rest</p>
+               <closer>
+                  <signed>
+                     <hi>Your Lordships assured Friends,</hi> Crafoord-Lindsey, <hi>J.P.D.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Copia</hi> of a Letter from <hi>Scotland</hi> to the House of Commons of the Parliament of <hi>England,</hi> date 28 <hi>Aug.</hi> 1646.</head>
+               <opener>
+                  <salute>Sir <hi>William Dick.</hi>
+                  </salute>
+                  <salute>Right honorable,</salute>
+               </opener>
+               <p>BY the many desires of our Commissioners we understand, it has been often made known to you, that the Remainder of the Brotherly assistance due at <hi>Midsumer,</hi> 1642. (being 34400 <hi>l.</hi> Principal with Interest since the said Term) was assigned by us in <hi>December,</hi> 1641: to Sir <hi>William Dick,</hi> who did very chearfully advance to us greater sums in our great streights and difficulties towards the firm Peace and Liberties of the Nations; and that pay<g ref="char:EOLhyphen"/>ment thereof hath this many years past been earnestly urged and expected with patience by the said Sir <hi>William,</hi> to his great loss and suffering, in his Affairs and Credit, which we im<g ref="char:EOLhyphen"/>pute to the by-gone distractions and troubles: But now, as the necessities of his Affairs do much affect us, who are so deeply engaged unto him, so, we most earnestly desire your Ho<g ref="char:EOLhyphen"/>nors for relief of his credit very far weakned, to give present effectual orders, for payment of the said Sir <hi>William,</hi> of the said Remainder and Interest thereof, which will be very ac<g ref="char:EOLhyphen"/>ceptable to</p>
+               <closer>
+                  <signed>
+                     <hi>Your Honors most affectionate Friends,</hi> Crafoord-Lindsey, <hi>J. P. D.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>
+                  <hi>Copia</hi> of two Letters from the <hi>Scots</hi> Commissioners at <hi>London,</hi> to the Committee of Parliament at <hi>Edenburgh,</hi> and the Committee of State at <hi>Newcastle,</hi> date 12 <hi>Sept.</hi> 1646.</head>
+               <opener>
+                  <salute>Concerning Sir <hi>William Dick.</hi>
+                  </salute>
+                  <salute>May it please your Lordships.</salute>
+               </opener>
+               <p>WE have received your Letters concerning Sir <hi>William Dick,</hi> and our care to use all means in our power for his relief with both Houses of Parliament, it is sufficiently
+<pb n="12" facs="tcp:122992:12"/> known to us, that his affection in laying out his whole Estate for the Publick, and exposing his credit at home and abroad to evident hazard and danger, cannot be paralleld by any other; And we are fully sensible, that his growing burthens are now become insupportable, and so much the more, that all the ways and means hitherto taken for his relief, have proved ineffectual, whereby his Creditors, so often frustrated, are ready to take some desperate course for their own satisfaction, which certainly will tend to his utter undoing, and bring him and his Family to ruine, to the great discouragement of all others to undertake for the Publick: These considerations do so far prevail with us, and the sad estate to which he is now reduced, for his forward Zeal and publick Affection, maketh so deep an impression on us, as there is no means can be devised, nor lawful ways assayed for his relief, which we shall not most willingly undertake; And therefore shall contribute our best endeavors with the Houses of Parliament, that he may have some speedy supply out of his right to the brother<g ref="char:EOLhyphen"/>ly assistance: But because we finde our selves obliged in honor, Justice, and Charity, not to make him depend upon us altogether, We therefore being of the like favorable minde with you, to his sore sufferings for the Publick, do request that so far as may be, you will commise<g ref="char:EOLhyphen"/>rate the very sad condition of his affairs, here and at home, it being without all controversie, that his sufferings in that kinde, are far beyond any other within this Kingdoms. We rest</p>
+               <closer>
+                  <signed>
+                     <hi>Yours Lordships most humble Servants,</hi> London, Lawderdail, <hi>Sir</hi> Charls Arskin, <hi>Sir</hi> Archbald Johnson, <hi>Mr.</hi> Robert Barkeley.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>A short state of the Debt due by <hi>England</hi> and <hi>Scotland</hi> to the deceased, Sir <hi>William Dick,</hi> and of the Securities he hath thereupon.</head>
+               <p>BY good and seasonable Services done to <hi>England</hi> by Sea, and otherways, there is due to the deceased Sir <hi>William Dick</hi> at <hi>Candlemas</hi> last past 2 <hi>February,</hi> 1656/7. of Principal and Interest (all Payments being deducted, and besides great charges and expences, losses, damages, and ruine in Credit and Estate, by so many disappointments these twelve years past) the sum of 36803 <hi>l</hi>-5 <hi>s</hi>-9 <hi>d.</hi>
+               </p>
+               <p>For this sum he hath security upon the friendly assistance due by Ordinance of Parlia<g ref="char:EOLhyphen"/>ment, the 24 of <hi>June,</hi> 1642. upon the Chamber of <hi>London,</hi> by Receipt of the 400000 <hi>l.</hi> Bill past by King and Parliament in 1641. Secondly, upon the Customs. And thirdly, by Or<g ref="char:EOLhyphen"/>dinance of Parliament upon Goldsmiths-hall: By Receipt of Papists and Delinquents E<g ref="char:EOLhyphen"/>states, Sale or Composition thereof (now turned into the Exchequer) and still standing charged upon that Hall, with some scores of Orders following thereupon, all confirming the original Ordinance for his payment; albeit nothing as yet paid thereupon, but 1600 <hi>l.</hi> 6 <hi>August,</hi> 1653.</p>
+               <p>By good service done to <hi>Scotland</hi> the time of their greatest streits and difficulties, and in relation to their union with <hi>England,</hi> and assistance to their sufferings, there is due to the said Sir <hi>William Dick</hi> at <hi>Candlemas</hi> last 165<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. of Principal and Interest (all payments being deducted; and besides great charges and expences, losses, damages, and ruine in Credit and E<g ref="char:EOLhyphen"/>state, by so many disappointments these sixteen years past) the sum of 28131 <hi>l.</hi>
+               </p>
+               <p>For this sum he hath several Bonds conform to the Fundamental Law of that Land.</p>
+               <p>Secondly, The Loan-moneys in the Shires of <hi>Southerland, Cathnes, Orkney,</hi> and <hi>Yettland.</hi>
+               </p>
+               <p>Thirdly, An Order for 11000 <hi>l.</hi> out of all other Loans, with an Order for a Loan upon those who had gotten payment of their first Loan, and the payment thereof to be made to the said Sir <hi>William.</hi>
+               </p>
+               <p>Fourthly, Two moneths Sess and Excizes of that Nation, after <hi>December,</hi> 1647. and <hi>January</hi> 1648. <hi>Scots</hi> stile.</p>
+               <p>Fifthly, 2000 <hi>l.</hi> sterling monethly out of the Sess and Excizes thereafter, when the Army in <hi>Ireland</hi> should be supplied by <hi>England.</hi>
+               </p>
+               <p>Sixthly, The third part of the Fines and Forfeitures in that Nation; and of all these five last Securities, nothing performed.</p>
+               <p>Seventhly, The Excize of all Wines, from 1 <hi>Novemb.</hi> 1649. to 1 <hi>Novemb.</hi> 1651. but interrupted by the Army from <hi>England.</hi>
+               </p>
+               <p>And lastly, the half of the Excize of all Wines and Strong-waters, after 1 <hi>Nov.</hi> 1651. till he should be compleatly paid, but interrupted also by the Army from <hi>England.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>Debt due by <hi>England</hi>
+                        </cell>
+                        <cell>36803 <hi>l</hi>
+                        </cell>
+                        <cell>5 <hi>s</hi>
+                        </cell>
+                        <cell>9 <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Debt due by <hi>Scotland</hi>
+                        </cell>
+                        <cell>28431 <hi>l</hi>
+                        </cell>
+                        <cell>0 <hi>s</hi>
+                        </cell>
+                        <cell>0 <hi>d.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell role="total">Sum total</cell>
+                        <cell>64934 <hi>l</hi>
+                        </cell>
+                        <cell>5 <hi>s</hi>
+                        </cell>
+                        <cell>9 <hi>d.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="13" facs="tcp:122992:13"/>
+               <head>
+                  <hi>Copia</hi> of <hi>Scotlands</hi> Letter to the Parliament of <hi>England,</hi> concerning Sir <hi>Wil. Dick,</hi> Date 21 <hi>Nov.</hi> 1648.</head>
+               <opener>
+                  <salute>Honored Sir,</salute>
+               </opener>
+               <p>THe sincerity and affection of Sir <hi>William Dick,</hi> (a person who with much cheerfulness hath laid out his Estate for the publick Good very largely, and hazarded all his Fortune in maintenance of the Cause) and his zealous opposition to the late Engagement against <hi>England,</hi> hath moved us at this time to appear in his behalf, and to desire in most serious manner, That seeing it hath pleased the honorable House, by their Ordinance of <hi>January</hi> 13. 1646. (English stile) to appoint him to be paid the sum of Nineteen thousand Eighteen pounds, Twelve shillings, Four pence, <hi>sterling;</hi> out of the last Two hundred thousand pounds for the Arrears of our Army that was in <hi>England;</hi> Your Honors in regard of his very ex<g ref="char:EOLhyphen"/>traordinary Engagements not only for this Kingdom, but also for the Kingdom of <hi>England,</hi> will now Ordain some speedy and effectual course to be taken for the payment thereof, accor<g ref="char:EOLhyphen"/>ding unto the said Ordinance: We are so confident that your Honors will have a speciall regard to his constant Affection (even in the times of greatest defection) and his Engage<g ref="char:EOLhyphen"/>ments for both Kingdoms, that we will relye upon your Care to preserve his Credit, and inable him to continue his Service for the good of the Publique; and your Favor and En<g ref="char:EOLhyphen"/>couragement to be shewed him herein, shall be esteemed as done to</p>
+               <closer>
+                  <dateline>
+                     <hi>Edinburgh,</hi>
+                     <date>
+                        <hi>November</hi> 21. 1648.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your affectionate Friends and Servants, Signed by Warrant, and in the Name of the Committee of Estates,</hi> LOUDON <hi>Cancellarius.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>Endorsed,</p>
+                  <p>
+                     <hi>For the honorable</hi> William Lenthall <hi>Esq Speaker of the Honorable House of Commons of the Parliament of Eng<g ref="char:EOLhyphen"/>land, to be communicated by him to the said House.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
